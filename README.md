@@ -1,7 +1,7 @@
 ### Hi! My name is [Sven Wollinger][website] 👋 :^)
 
 [![Website](https://img.shields.io/website?label=wollinger.io&style=for-the-badge&url=https%3A%2F%2Fwollinger.io)](https://wollinger.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SvenWollinger?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%SvenWollinger&screen_name=SvenWollinger)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SvenWollinger?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SvenWollinger)
 
 ## Developer, Gamer, Rat dad
 
