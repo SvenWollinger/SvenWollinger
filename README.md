@@ -42,4 +42,4 @@ Forked from [codeSTACKr's profile](https://github.com/codeSTACKr/codeSTACKr)
 [cc-github]: https://github.com/capturecoop
 [twitter]: https://twitter.com/SvenWollinger
 [instagram]: https://instagram.com/SvenWollinger
-[email]: mailto:wollingersven@gmail.com
+[email]: mailto:sven@wollinger.email
