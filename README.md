@@ -3,9 +3,9 @@
 [![Website](https://img.shields.io/website?label=wollinger.io&style=for-the-badge&url=https%3A%2F%2Fwollinger.io)](https://wollinger.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SvenWollinger?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SvenWollinger)
 
-## Developer, Gamer, Rat dad
+## Developer, Gamer, Prior Rat dad
 
-- 🐀 I got 3 female rats
+- 🐀 Ive had 8 wonderful Fancy Rats
 - 🏠 Part of [Capture Coop][cc-github]
 - 🔫 Im the programmer of [SnipSniper][snipsniper-github]
 - 🇩 Discord: SvenWollinger#0001
@@ -25,6 +25,7 @@
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
